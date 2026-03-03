@@ -1,0 +1,14 @@
+C:\Users\samu1\OneDrive\Documentos\ConsumerGitHubUseratividade\ConsumerGitHubUser\obj\Debug\net10.0\ConsumerGitHubUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samu1\OneDrive\Documentos\ConsumerGitHubUseratividade\ConsumerGitHubUser\obj\Debug\net10.0\ConsumerGitHubUser.AssemblyInfoInputs.cache
+C:\Users\samu1\OneDrive\Documentos\ConsumerGitHubUseratividade\ConsumerGitHubUser\obj\Debug\net10.0\ConsumerGitHubUser.AssemblyInfo.cs
+C:\Users\samu1\OneDrive\Documentos\ConsumerGitHubUseratividade\ConsumerGitHubUser\obj\Debug\net10.0\ConsumerGitHubUser.csproj.CoreCompileInputs.cache
+C:\Users\samu1\OneDrive\Documentos\ConsumerGitHubUseratividade\ConsumerGitHubUser\bin\Debug\net10.0\ConsumerGitHubUser.exe
+C:\Users\samu1\OneDrive\Documentos\ConsumerGitHubUseratividade\ConsumerGitHubUser\bin\Debug\net10.0\ConsumerGitHubUser.deps.json
+C:\Users\samu1\OneDrive\Documentos\ConsumerGitHubUseratividade\ConsumerGitHubUser\bin\Debug\net10.0\ConsumerGitHubUser.runtimeconfig.json
+C:\Users\samu1\OneDrive\Documentos\ConsumerGitHubUseratividade\ConsumerGitHubUser\bin\Debug\net10.0\ConsumerGitHubUser.dll
+C:\Users\samu1\OneDrive\Documentos\ConsumerGitHubUseratividade\ConsumerGitHubUser\bin\Debug\net10.0\ConsumerGitHubUser.pdb
+C:\Users\samu1\OneDrive\Documentos\ConsumerGitHubUseratividade\ConsumerGitHubUser\obj\Debug\net10.0\ConsumerGitHubUser.dll
+C:\Users\samu1\OneDrive\Documentos\ConsumerGitHubUseratividade\ConsumerGitHubUser\obj\Debug\net10.0\refint\ConsumerGitHubUser.dll
+C:\Users\samu1\OneDrive\Documentos\ConsumerGitHubUseratividade\ConsumerGitHubUser\obj\Debug\net10.0\ConsumerGitHubUser.pdb
+C:\Users\samu1\OneDrive\Documentos\ConsumerGitHubUseratividade\ConsumerGitHubUser\obj\Debug\net10.0\ConsumerGitHubUser.genruntimeconfig.cache
+C:\Users\samu1\OneDrive\Documentos\ConsumerGitHubUseratividade\ConsumerGitHubUser\obj\Debug\net10.0\ref\ConsumerGitHubUser.dll
